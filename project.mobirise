@@ -56,7 +56,7 @@
         "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 245,
+    "uniqCompNum": 249,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -14422,7 +14422,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#c6bd83",
               "text-align": "right"
             },
             ".mbr-section-subtitle, .mbr-section-btn DIV": {
@@ -14434,7 +14434,7 @@
           },
           "_name": "header4",
           "_sourceTheme": "mobirise-amp",
-          "_customHTML": "<section class=\"header4\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/qp1a8865-ed-2000x1429.jpg\" selected>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"2 Color\" name=\"twoColor\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" value=\"#005af0\" name=\"twoColorBg\" condition=\"twoColor && bg.type == 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-fonts-style mbr-section-title align-left mbr-white mbr-bold mbr-pb-2\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">\n            Christmas&nbsp;</span><span style=\"font-weight: normal;\">Minis&nbsp;</span></h1>\n        <h2 class=\"mbr-fonts-style mbr-section-subtitle align-left mbr-white mbr-semibold mbr-pb-3\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-section-subtitle, .mbr-section-btn\"><span style=\"font-weight: normal;\">Thank you for your interest on my website.&nbsp;</span><div><span style=\"font-weight: normal;\">I am happy to announce my Christmas Minis 2023</span></div><div><span style=\"font-weight: normal;\">and I am very excited to capture some&nbsp;</span></div><div><span style=\"font-weight: normal;\">beautiful memories for your family.</span></div><div><span style=\"font-weight: normal;\">The first sessions will take place in October</span></div><div><span style=\"font-weight: normal;\">to give you enough time to prepare your&nbsp;</span></div><div><span style=\"font-weight: normal;\">Christmas cards, calendars and presents.</span></div><div><span style=\"font-weight: normal;\">My ultimate goal is to make sure you and</span></div><div><span style=\"font-weight: normal;\">your kids have a great time during the</span></div><div><span style=\"font-weight: normal;\">session that's why I always prepare two </span></div><div><span style=\"font-weight: normal;\">fun set ups!&nbsp;</span></div></h2>\n        <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n            <a class=\"btn btn-md btn-white\" href=\"https://mobiri.se\">\n                Try It\n            </a>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header4\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/qp1a8865-ed-2000x1429.jpg\" selected>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"2 Color\" name=\"twoColor\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" value=\"#005af0\" name=\"twoColorBg\" condition=\"twoColor && bg.type == 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-fonts-style mbr-section-title align-left mbr-white mbr-bold mbr-pb-2\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">\n            Christmas&nbsp;</span><span style=\"font-weight: normal;\">Minis 2023&nbsp;</span></h1>\n        <h2 class=\"mbr-fonts-style mbr-section-subtitle align-left mbr-white mbr-semibold mbr-pb-3\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-section-subtitle, .mbr-section-btn\"><span style=\"font-weight: normal;\">Thank you for your interest on my website.&nbsp;</span><div><span style=\"font-weight: normal;\">I am happy to announce my Christmas Minis 2023</span></div><div><span style=\"font-weight: normal;\">and I am very excited to capture some&nbsp;</span></div><div><span style=\"font-weight: normal;\">beautiful memories for your family.</span></div><div><span style=\"font-weight: normal;\">The first sessions will take place in October</span></div><div><span style=\"font-weight: normal;\">to give you enough time to prepare your&nbsp;</span></div><div><span style=\"font-weight: normal;\">Christmas cards, calendars and presents.</span></div><div><span style=\"font-weight: normal;\">My ultimate goal is to make sure you and</span></div><div><span style=\"font-weight: normal;\">your kids have a great time during the</span></div><div><span style=\"font-weight: normal;\">session that's why I always prepare two </span></div><div><span style=\"font-weight: normal;\">fun set ups!&nbsp;</span></div></h2>\n        <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n            <a class=\"btn btn-md btn-white\" href=\"https://mobiri.se\">\n                Try It\n            </a>\n        </div>\n    </div>\n</section>",
           "_cid": "sKXPc5lA3C",
           "_anchor": "header4-3y",
           "_protectedParams": [],
@@ -14547,7 +14547,7 @@
           },
           "_name": "testimonials3",
           "_sourceTheme": "mobirise-amp",
-          "_customHTML": "<section class=\"testimonials3 mbr-section\" group=\"Testimonials & Teams\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Card Title\" name=\"showCardTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Author Name\" name=\"showAuthorName\">\n        <input type=\"checkbox\" title=\"Show Author Title\" name=\"showAuthorTitle\">\n        <input type=\"checkbox\" name=\"showImage\" title=\"Show Images\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <input type=\"color\" title=\"Card BG Color\" name=\"cardBg\" value=\"#efefef\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-12\" mbr-if=\"showTitle\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-light mbr-pb-4\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    AVAILABLE DATES AND SLOTS</h2>\n            </div>\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 mbr-px-3\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3, 'mbr-col-lg-3': cardsAmount > 3, 'mbr-col-lg-6': cardsAmount == 2, 'md-pb': cardsAmount > 2, 'last-child': cardsAmount == 1 }\">\n                <div class=\"card-wrapper mbr-p-2\">\n                    <h3 class=\"mbr-fonts-style card-title align-center mbr-pb-1\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">10.11.2023</h3>\n                    <p class=\"mbr-text mbr-fonts-style align-center\" mbr-class=\"{'mbr-pt-1': showCardTitle}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"></p><p>10:00 - Available<br>11:00 - Available</p><p>12:00 - Available<br></p>13:00 - Available<p><br><br></p><p><br><br><br><br></p>\n                    <div class=\"card-img mbr-pt-3\" mbr-if=\"showImage\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-239x239.png\" layout=\"responsive\" width=\"119.64393670886076\" height=\"120.406\" alt=\"Mobirise\" class=\"mobirise-loader rounded mbr-m-auto\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp rounded\" src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-239x239.png\" alt=\"Mobirise\" title data-aspectratio=\"0.9230769230769231\">\n                        </amp-img>\n                    </div>\n                    <div class=\"signature mbr-pt-1\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                        <div class=\"author-name mbr-fonts-style align-center mbr-bold\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">John Clarke</div>\n                        <div class=\"author-title mbr-fonts-style align-center\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                            User\n                        </div>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 mbr-px-3\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3, 'mbr-col-lg-3': cardsAmount > 3, 'mbr-col-lg-6 last-child': cardsAmount == 2, 'md-pb': cardsAmount > 2}\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper mbr-p-2\">\n                    <h3 class=\"mbr-fonts-style card-title align-center mbr-pb-1\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">11.11.2023</h3>\n                    <p class=\"mbr-text mbr-fonts-style align-center\" mbr-class=\"{'mbr-pt-1': showCardTitle}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">10:00 - Available<br>11:00 - Booked<br>12:00 - Available<br>13:00 - Available<br>14:00 - Available<br>15:00 - Available<br>16:00 - Booked<br>17:00 - Available<br>18:00 - Available<br></p>\n                    <div class=\"card-img mbr-pt-3\" mbr-if=\"showImage\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-2-239x239.png\" layout=\"responsive\" width=\"119.65532704402516\" height=\"116.719\" alt=\"Mobirise\" class=\"mobirise-loader rounded mbr-m-auto\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp rounded\" src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-2-239x239.png\" alt=\"Mobirise\" title data-aspectratio=\"1\">\n                        </amp-img>\n                    </div>\n                    <div class=\"signature mbr-pt-1\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                        <div class=\"author-name mbr-fonts-style align-center mbr-bold\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">Karin Miller</div>\n                        <div class=\"author-title mbr-fonts-style align-center\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                            User\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 mbr-px-3\" mbr-class=\"{'mbr-col-lg-4 last-child': cardsAmount == 3, 'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper mbr-p-2\">\n                    <h3 class=\"mbr-fonts-style card-title align-center mbr-pb-1\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">12.11.2023</h3>\n                    <p class=\"mbr-text mbr-fonts-style align-center\" mbr-class=\"{'mbr-pt-1': showCardTitle}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">10:00 - Booked<br>11:00 - Booked<br>12:00 - Available<br>13:00 - Available<br>14:00 - Available<br>15:00 - Booked<br>16:00 - Available<br>17:00 - Available<br>18:00 - Available<br></p>\n                    <div class=\"card-img mbr-pt-3\" mbr-if=\"showImage\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-3-239x239.png\" layout=\"responsive\" width=\"119.6432298136646\" height=\"120.391\" alt=\"Mobirise\" class=\"mobirise-loader rounded mbr-m-auto\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp rounded\" src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-3-239x239.png\" alt=\"Mobirise\" title data-aspectratio=\"0.9205020920502092\">\n                        </amp-img>\n                    </div>\n                    <div class=\"signature mbr-pt-1\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                        <div class=\"author-name mbr-fonts-style align-center mbr-bold\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">Matthew Reeves</div>\n                        <div class=\"author-title mbr-fonts-style align-center\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                            User\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-3 last-child mbr-px-3\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper mbr-p-2\">\n                    <h3 class=\"mbr-fonts-style card-title align-center mbr-pb-1\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">Intuitive</h3>\n                    <p class=\"mbr-text mbr-fonts-style align-center\" mbr-class=\"{'mbr-pt-1': showCardTitle}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam\n                    </p>\n                    <div class=\"card-img mbr-pt-3\" mbr-if=\"showImage\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/face3-1.jpg\" layout=\"responsive\" width=\"16\" height=\"9\" alt=\"Mobirise\" class=\"mobirise-loader rounded mbr-m-auto\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp rounded\" src=\"@PROJECT_PATH@/assets/images/face3-1.jpg\" alt=\"Mobirise\" title>\n                        </amp-img>\n                    </div>\n                    <div class=\"signature mbr-pt-1\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                        <div class=\"author-name mbr-fonts-style align-center mbr-bold\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">Matthew Reeves</div>\n                        <div class=\"author-title mbr-fonts-style align-center\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                            User\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"testimonials3 mbr-section\" group=\"Testimonials & Teams\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Card Title\" name=\"showCardTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Author Name\" name=\"showAuthorName\">\n        <input type=\"checkbox\" title=\"Show Author Title\" name=\"showAuthorTitle\">\n        <input type=\"checkbox\" name=\"showImage\" title=\"Show Images\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <input type=\"color\" title=\"Card BG Color\" name=\"cardBg\" value=\"#efefef\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-12\" mbr-if=\"showTitle\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-light mbr-pb-4\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    AVAILABLE DATES AND SLOTS</h2>\n            </div>\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 mbr-px-3\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3, 'mbr-col-lg-3': cardsAmount > 3, 'mbr-col-lg-6': cardsAmount == 2, 'md-pb': cardsAmount > 2, 'last-child': cardsAmount == 1 }\">\n                <div class=\"card-wrapper mbr-p-2\">\n                    <h3 class=\"mbr-fonts-style card-title align-center mbr-pb-1\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">10.11.2023</h3>\n                    <p class=\"mbr-text mbr-fonts-style align-center\" mbr-class=\"{'mbr-pt-1': showCardTitle}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"></p><p>10:00 - Available<br>11:00 - Available</p><p>12:00 - Available<br></p>13:00 - Available<p><br><br></p><p><br><br><br><br></p>\n                    <div class=\"card-img mbr-pt-3\" mbr-if=\"showImage\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-239x239.png\" layout=\"responsive\" width=\"119.64393670886076\" height=\"120.406\" alt=\"Mobirise\" class=\"mobirise-loader rounded mbr-m-auto\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp rounded\" src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-239x239.png\" alt=\"Mobirise\" title data-aspectratio=\"0.9230769230769231\">\n                        </amp-img>\n                    </div>\n                    <div class=\"signature mbr-pt-1\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                        <div class=\"author-name mbr-fonts-style align-center mbr-bold\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">John Clarke</div>\n                        <div class=\"author-title mbr-fonts-style align-center\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                            User\n                        </div>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 mbr-px-3\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3, 'mbr-col-lg-3': cardsAmount > 3, 'mbr-col-lg-6 last-child': cardsAmount == 2, 'md-pb': cardsAmount > 2}\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper mbr-p-2\">\n                    <h3 class=\"mbr-fonts-style card-title align-center mbr-pb-1\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">11.11.2023</h3>\n                    <p class=\"mbr-text mbr-fonts-style align-center\" mbr-class=\"{'mbr-pt-1': showCardTitle}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">10:00 - Available<br>11:00 - Booked<br>12:00 - Available<br>13:00 - Available<br>14:00 - Available<br>15:00 - Available<br>16:00 - Booked<br>17:00 - Available<br>18:00 - Available<br></p>\n                    <div class=\"card-img mbr-pt-3\" mbr-if=\"showImage\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-2-239x239.png\" layout=\"responsive\" width=\"119.65532704402516\" height=\"116.719\" alt=\"Mobirise\" class=\"mobirise-loader rounded mbr-m-auto\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp rounded\" src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-2-239x239.png\" alt=\"Mobirise\" title data-aspectratio=\"1\">\n                        </amp-img>\n                    </div>\n                    <div class=\"signature mbr-pt-1\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                        <div class=\"author-name mbr-fonts-style align-center mbr-bold\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">Karin Miller</div>\n                        <div class=\"author-title mbr-fonts-style align-center\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                            User\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 mbr-px-3\" mbr-class=\"{'mbr-col-lg-4 last-child': cardsAmount == 3, 'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper mbr-p-2\">\n                    <h3 class=\"mbr-fonts-style card-title align-center mbr-pb-1\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">12.11.2023</h3>\n                    <p class=\"mbr-text mbr-fonts-style align-center\" mbr-class=\"{'mbr-pt-1': showCardTitle}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">10:00 - Booked<br>11:00 - Booked<br>12:00 - Available<br>13:00 - Available<br>14:00 - Available<br>15:00 - Booked<br>16:00 - Available<br>17:00 - Available<br>18:00 - Booked<br></p>\n                    <div class=\"card-img mbr-pt-3\" mbr-if=\"showImage\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-3-239x239.png\" layout=\"responsive\" width=\"119.6432298136646\" height=\"120.391\" alt=\"Mobirise\" class=\"mobirise-loader rounded mbr-m-auto\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp rounded\" src=\"@PROJECT_PATH@/assets/images/40-gift-tag-stickers-wreath-3325-1-p-3-239x239.png\" alt=\"Mobirise\" title data-aspectratio=\"0.9205020920502092\">\n                        </amp-img>\n                    </div>\n                    <div class=\"signature mbr-pt-1\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                        <div class=\"author-name mbr-fonts-style align-center mbr-bold\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">Matthew Reeves</div>\n                        <div class=\"author-title mbr-fonts-style align-center\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                            User\n                        </div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-3 last-child mbr-px-3\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper mbr-p-2\">\n                    <h3 class=\"mbr-fonts-style card-title align-center mbr-pb-1\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">Intuitive</h3>\n                    <p class=\"mbr-text mbr-fonts-style align-center\" mbr-class=\"{'mbr-pt-1': showCardTitle}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore incidunt molestias, vitae recusandae error ipsam\n                    </p>\n                    <div class=\"card-img mbr-pt-3\" mbr-if=\"showImage\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/face3-1.jpg\" layout=\"responsive\" width=\"16\" height=\"9\" alt=\"Mobirise\" class=\"mobirise-loader rounded mbr-m-auto\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp rounded\" src=\"@PROJECT_PATH@/assets/images/face3-1.jpg\" alt=\"Mobirise\" title>\n                        </amp-img>\n                    </div>\n                    <div class=\"signature mbr-pt-1\" mbr-if=\"showAuthorTitle || showAuthorName\">\n                        <div class=\"author-name mbr-fonts-style align-center mbr-bold\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorName\" data-app-selector=\".author-name\">Matthew Reeves</div>\n                        <div class=\"author-title mbr-fonts-style align-center\" mbr-text mbr-theme-style=\"display-4\" mbr-if=\"showAuthorTitle\" data-app-selector=\".author-title\">\n                            User\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "testimonials3-5m",
           "_isUserblock": true,
           "_cid": "thCqFGhonG",
@@ -14559,35 +14559,44 @@
         {
           "alias": false,
           "_styles": {
-            "background-color": "@bgColor",
-            "& when not (@fullWidth)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
             },
-            ".image-block": {
-              "& when not (@fullWidth)": {
-                "width": "~\"@{videoSize}%\"",
-                "img": {
-                  "border-radius": "10px"
-                },
-                "& when not (@showText)": {
-                  "box-shadow": "inset 0 0 0 1px #ebebf0, 0 15px 30px 0 rgba(0, 0, 0, 0.15)",
-                  "border-radius": "10px"
-                },
-                "@media (max-width: 767px)": {
-                  "width": "100% !important"
-                }
-              }
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-img": {
+              "border-radius": "10px",
+              "box-shadow": "inset 0 0 0 1px #ebebf0, 0 15px 30px 0 rgba(0, 0, 0, 0.15)"
             },
             "img": {
-              "object-fit": "contain"
+              "border-radius": "10px"
+            },
+            ".link": {
+              "transition": "all 0.3s cubic-bezier(0.25, 0.1, 0.25, 1)",
+              ".mbr-iconfont": {
+                "font-size": "16px",
+                "width": "16px",
+                "margin-right": "10px",
+                "vertical-align": "middle"
+              },
+              "&:hover": {
+                "transform": "translatex(10px)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#c6bd83",
+              "text-align": "center"
             }
           },
-          "_name": "image1",
+          "_name": "features1",
           "_sourceTheme": "mobirise-amp",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"65\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Caption\" name=\"showText\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"image-block mbr-m-auto\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/qp1a7051-ed-2336x3504.jpg\" layout=\"responsive\" width=\"1168\" height=\"1752\" alt=\"Christmas Minis 2023 Nottinghamshire Derbyshire Giltbrook cheap\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/qp1a7051-ed-2336x3504.jpg\" alt=\"Christmas Minis 2023 Nottinghamshire Derbyshire Giltbrook cheap\" data-aspectratio=\"0.6665239726027398\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-class=\"{'mbr-py-1': !fullWidth, 'mbr-py-1 mbr-px-4': fullWidth}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                    Create awesome and FAST websites!\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "thATRFIDNn",
-          "_anchor": "image1-5j",
+          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Link\" name=\"showLink\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n        </select>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background2.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class mbr-class=\"{'container' : !fullWidth, 'container-fluid' : fullWidth}\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/christmas-2023-891x616.jpg\" layout=\"responsive\" width=\"537.9817499999999\" height=\"371.938\" alt=\"Christmas mnis 2023 Nottingham Derby NG16\" class=\"mobirise-loader\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/christmas-2023-891x616.jpg\" alt=\"Christmas mnis 2023 Nottingham Derby NG16\" data-aspectratio=\"0.6663568773234201\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box mbr-pt-4\">\n                        <h4 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: 400;\">GLAMOUR</span></h4>\n                        <p class=\"mbr-text mbr-fonts-style mbr-pt-1\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            For this set up you can wear: whites, beiges, golds and silvers. It is an indoor set up which will be available for parents too, so please come dressed appropriately. All pretty long dresses for girls or shirts, chinos or trousers for boys are going to be appropriate for this set up. If you would like to keep light and airy feel of the photographs I would suggest to pick light colours as this will work beautiful with this setup.&nbsp;</p>\n                        <p class=\"link mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-4\" mbr-if=\"showLink\" data-app-selector=\".link\"><a href=\"#\" class=\"text-primary\"><span mbr-icon class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>Read More</a></p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6 last-child\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/christmas-2023jpg-929x649.jpg\" layout=\"responsive\" height=\"375.844\" width=\"537.9954946070878\" alt=\"Christmas Minis 2022\" class=\"mobirise-loader\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/christmas-2023jpg-929x649.jpg\" alt=\"Christmas Minis 2022\" data-aspectratio=\"0.7146840148698885\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box mbr-pt-4\">\n                        <h4 class=\"mbr-section-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">\n                            OUTDOOR FUN</span></h4>\n                        <p class=\"mbr-text mbr-fonts-style mbr-pt-1\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            For this set up I would advise to go with reds, burgundies, browns, golds, deep greens and beiges. It is an outdoor setup so all accessories like hats, gloves, long socks, scarfs and shoes in this colours will look amazing. Pretty dresses matched with fluffy coats will look amazing too. You can find some outfit suggestions down below.<br></p>\n                        <p class=\"link mbr-fonts-style mbr-bold mbr-pt-2\" mbr-theme-style=\"display-4\" mbr-if=\"showLink\" data-app-selector=\".link\"><a href=\"#\" class=\"text-primary\"><span mbr-icon class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span></a><a href=\"#\" class=\"text-primary\">Read More</a></p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_anchor": "features1-6t",
+          "_isUserblock": true,
+          "_cid": "tQeh3eAorl",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -14670,9 +14679,46 @@
           },
           "_name": "info2",
           "_sourceTheme": "mobirise-amp",
-          "_customHTML": "<section class=\"info2\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Button\" name=\"showButton\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverse\" condition=\"(showTitle || showSubtitle) && showButton\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\" mbr-class=\"{'mbr-row-reverse': reverse}\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-left mbr-fonts-style mbr-bold mbr-pb-2\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">\n                    HOW TO PREPARE FOR YOUR CHRISTMAS SESSION</span></h2>\n                <h3 class=\"mbr-text align-left mbr-fonts-style mbr-regular\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-text\">- All sessions are 30 minutes long.<br><br>- If you are late this time will be deducted from your session.&nbsp;<br><br>- They are priced at <b>£79</b>&nbsp;per session and you receive <b>5 digital</b> images which will be sent straight to your email address.&nbsp;<br><br>- You can purchase additional digital images which are £15 each.<br><br>- Please come already dressed and fully prepared for your session. There will not be enough time to do makeup or hair during the session.&nbsp;<br><br>- Scarfs, kids hats, skates,&nbsp; wooden sleigh, cooking aprons and chef hats will be available as props during the session.<br><br>- Cloths used for your session should be ironed as it makes a big difference in final images<br><br>- For the first set up you can wear: whites, beiges, golds, deep greens, browns and reds. It is an outdoor set up so all accessories like hats, gloves, long socks, scarfs and shoes in this colours will look amazing.<br><br>- For the second set up I would advise to go with reds, burgundies, browns, golds.<br><br>- <b>To book</b> your slot, please contact me via email: <b>emiliareillyphotography@gmail.com&nbsp;</b><br><br>- Christmas Minis take place in my private studio located in Giltbrook, Nottingham (Next to IKEA). The full address can be found at the bottom of this page. Free parking is available on the drive as well as outside the gates.<br><br></h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-4 align-center mbr-flex\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn mbr-m-auto\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Contact</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"info2\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Button\" name=\"showButton\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverse\" condition=\"(showTitle || showSubtitle) && showButton\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\" mbr-class=\"{'mbr-row-reverse': reverse}\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-left mbr-fonts-style mbr-bold mbr-pb-2\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">\n                    HOW TO PREPARE FOR YOUR CHRISTMAS SESSION</span></h2>\n                <h3 class=\"mbr-text align-left mbr-fonts-style mbr-regular\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-text\">- All sessions are 30 minutes long.<br><br>- If you are late this time will be deducted from your session.&nbsp;<br><br>- They are priced at <b>£79</b>&nbsp;per session and you receive <b>5 digital</b> images which will be sent straight to your email address.&nbsp;<br><br>- You can purchase additional digital images which are £15 each.<br><br>- Please come already dressed and fully prepared for your session. There will not be enough time to do makeup or hair during the session.&nbsp;<br><br>- Scarfs, kids hats, skates,&nbsp; wooden sleigh and so on will be available on the day&nbsp;<br><br>- Cloths used for your session should be ironed as it makes a big difference in final images<br><br>- For the first set up you can wear: whites, beiges, golds, silvers and deep greens.&nbsp;<br><br>- For the second set up I would advise to go with reds, burgundies, deep grens, golds, beiges.<br><br>- <b>To book</b> your slot, please contact me via email: <b>emiliareillyphotography@gmail.com&nbsp;</b><br><br>- Christmas Minis take place in my private studio located in Giltbrook, Nottingham (Next to IKEA). The full address can be found at the bottom of this page. Free parking is available on the drive as well as outside the gates.<br><br></h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-4 align-center mbr-flex\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn mbr-m-auto\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Contact</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sKN3PfFygm",
           "_anchor": "info2-3x",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background-color": "@bgColor",
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            ".image-block": {
+              "& when not (@fullWidth)": {
+                "width": "~\"@{videoSize}%\"",
+                "img": {
+                  "border-radius": "10px"
+                },
+                "& when not (@showText)": {
+                  "box-shadow": "inset 0 0 0 1px #ebebf0, 0 15px 30px 0 rgba(0, 0, 0, 0.15)",
+                  "border-radius": "10px"
+                },
+                "@media (max-width: 767px)": {
+                  "width": "100% !important"
+                }
+              }
+            },
+            "img": {
+              "object-fit": "contain"
+            }
+          },
+          "_name": "image1",
+          "_sourceTheme": "mobirise-amp",
+          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"65\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Caption\" name=\"showText\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"image-block mbr-m-auto\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/qp1a7051-ed-2336x3504.jpg\" layout=\"responsive\" width=\"1168\" height=\"1752\" alt=\"Christmas Minis 2023 Nottinghamshire Derbyshire Giltbrook cheap\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/qp1a7051-ed-2336x3504.jpg\" alt=\"Christmas Minis 2023 Nottinghamshire Derbyshire Giltbrook cheap\" data-aspectratio=\"0.6665239726027398\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-class=\"{'mbr-py-1': !fullWidth, 'mbr-py-1 mbr-px-4': fullWidth}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                    Create awesome and FAST websites!\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "thATRFIDNn",
+          "_anchor": "image1-5j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -14744,9 +14790,9 @@
           },
           "_name": "image1",
           "_sourceTheme": "mobirise-amp",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"65\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Caption\" name=\"showText\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"image-block mbr-m-auto\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/qp1a9039-ed-2336x3270.jpg\" layout=\"responsive\" width=\"1168\" height=\"1635\" alt=\"Christmas Minis 2023 Nottinghamshire Derbyshire Giltbrook cheap\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/qp1a9039-ed-2336x3270.jpg\" alt=\"Christmas Minis 2023 Nottinghamshire Derbyshire Giltbrook cheap\" data-aspectratio=\"0.6665239726027398\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-class=\"{'mbr-py-1': !fullWidth, 'mbr-py-1 mbr-px-4': fullWidth}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                    Create awesome and FAST websites!\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "thAUN9tzxj",
-          "_anchor": "image1-5l",
+          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"65\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Caption\" name=\"showText\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"image-block mbr-m-auto\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/qp1a8868-ed-2336x3504.jpg\" layout=\"responsive\" width=\"1168\" height=\"1752\" alt=\"Christmas Minis 2023 Mother and daughter red tartan\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/qp1a8868-ed-2336x3504.jpg\" alt=\"Christmas Minis 2023 Mother and daughter red tartan\" data-aspectratio=\"0.7144691780821918\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-class=\"{'mbr-py-1': !fullWidth, 'mbr-py-1 mbr-px-4': fullWidth}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                    Create awesome and FAST websites!\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tlARtCjNax",
+          "_anchor": "image1-5z",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -14755,35 +14801,691 @@
         {
           "alias": false,
           "_styles": {
-            "background-color": "@bgColor",
-            "& when not (@fullWidth)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
             },
-            ".image-block": {
-              "& when not (@fullWidth)": {
-                "width": "~\"@{videoSize}%\"",
-                "img": {
-                  "border-radius": "10px"
-                },
-                "& when not (@showText)": {
-                  "box-shadow": "inset 0 0 0 1px #ebebf0, 0 15px 30px 0 rgba(0, 0, 0, 0.15)",
-                  "border-radius": "10px"
-                },
-                "@media (max-width: 767px)": {
-                  "width": "100% !important"
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              "& when (@overlay)": {
+                ".mbr-overlay": {
+                  "background": "@overlayColor",
+                  "opacity": "@overlayOpacity"
                 }
               }
             },
-            "img": {
-              "object-fit": "contain"
+            "& when (@masonryStyle)": {
+              "@media (min-width: 992px)": {
+                ".mbr-row": {
+                  "flex-direction": "column",
+                  "height": "(@masonryHeight * 1rem)",
+                  "align-content": "center",
+                  "justify-content": "flex-start",
+                  ".item": {
+                    "height": "auto",
+                    "flex": "none",
+                    "max-width": "100%",
+                    "& when (@imageWidth = 2)": {
+                      "width": "50.00%"
+                    },
+                    "& when (@imageWidth = 3)": {
+                      "width": "33.33%"
+                    },
+                    "& when (@imageWidth = 4)": {
+                      "width": "25.00%"
+                    }
+                  }
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& when not (@noPaddings)": {
+                ".container-fluid": {
+                  "padding-left": "(@spacing * 1rem)",
+                  "padding-right": "(@spacing * 1rem)"
+                },
+                ".item": {
+                  "padding": "(@spacing * 1rem)"
+                },
+                ".item-img": {
+                  "padding-bottom": "0"
+                }
+              },
+              "& when (@noPaddings)": {
+                ".mbr-row": {
+                  "margin": "0",
+                  "padding": "0"
+                },
+                ".container-fluid, .container": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".title": {
+              "& when (@spacing <= 2)": {
+                "padding-bottom": "((2 - @spacing) * 1rem)"
+              },
+              "& when (@spacing > 2)": {
+                "margin-bottom": "((2 - @spacing) * 1rem)"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".item": {
+                "margin-bottom": "2rem"
+              }
+            },
+            ".item-wrapper": {
+              "width": "100%",
+              "height": "100%",
+              "position": "relative"
+            },
+            "& when (@showText)": {
+              "amp-img": {
+                ".item-sign": {
+                  "position": "absolute",
+                  "left": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "padding": "1rem 2rem",
+                  "z-index": "2",
+                  "transition": "0.2s ease-in",
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), @bgOpacity)",
+                  "color": "#ffffff"
+                }
+              },
+              "amp-img:hover": {
+                ".item-sign": {
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), 100)"
+                }
+              }
+            },
+            "& when (@squareStyle)": {
+              "amp-img, img": {
+                "object-fit": "cover",
+                "height": "300px",
+                "@media (min-width: 991px) and (max-width: 1199px)": {
+                  "height": "275px"
+                }
+              }
+            },
+            ".item-btn, .item-box-btn": {
+              "margin": "0"
+            },
+            ".item-box": {
+              "justify-content": "center",
+              "position": "relative",
+              "width": "100%",
+              "background": "#f7f7f7",
+              "overflow": "auto",
+              "@media (min-width: 992px)": {
+                "max-width": "1000px"
+              },
+              "@media (max-width: 991px)": {
+                "width": "90%",
+                "margin": "1rem"
+              }
+            },
+            ".item-box-img": {
+              "@media (min-width: 992px)": {
+                "padding": "2rem"
+              },
+              "@media (max-width: 991px)": {
+                "padding": "1rem"
+              },
+              "amp-img": {
+                "height": "auto"
+              }
+            },
+            ".item-box-wrapper": {
+              "background-color": "#f7f7f7",
+              "@media (min-width: 992px)": {
+                "padding": "2rem"
+              },
+              "@media (max-width: 991px)": {
+                "padding": "1rem"
+              }
+            },
+            "& when (@customStyles)": {
+              "& when (@boxShadow)": {
+                ".item-wrapper": {
+                  "box-shadow": "0px 0px (@shadowSize * 1px) 0px rgba(red(@shadowColor), green(@shadowColor), blue(@shadowColor), @shadowOpacity)"
+                }
+              },
+              "& when (@hoverOverlay)": {
+                "amp-img": {
+                  "&:after": {
+                    "content": "\"\"",
+                    "pointer-events": "none",
+                    "transition": "0.4s",
+                    "position": "absolute",
+                    "top": "0",
+                    "left": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "opacity": "0",
+                    "background-color": "rgba(red(@hoverColor), green(@hoverColor), blue(@hoverColor), @hoverOpacity)"
+                  },
+                  "&:hover": {
+                    "&:after": {
+                      "opacity": "1"
+                    }
+                  }
+                }
+              },
+              "& when (@hoverIcon)": {
+                ".icon-wrap": {
+                  "position": "absolute",
+                  "left": "0",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "margin": "auto",
+                  "opacity": "0",
+                  "transition": "0.4s",
+                  "height": "(@iconSize * 1rem)",
+                  "width": "(@iconSize * 1rem)",
+                  "z-index": "2",
+                  "span": {
+                    "color": "@iconColor",
+                    "font-size": "(@iconSize * 1rem)"
+                  }
+                },
+                "amp-img:hover .icon-wrap": {
+                  "opacity": "1"
+                }
+              },
+              "& when (@useBorderRadius)": {
+                ".item-wrapper": {
+                  "z-index": "12",
+                  "border-radius": "(@borderRadius * 1px)",
+                  "overflow": "hidden"
+                }
+              }
+            },
+            "& when not (@customStyles)": {
+              ".icon-wrap": {
+                "display": "none"
+              }
+            },
+            ".item": {
+              "cursor": "pointer"
+            },
+            "& when (@noPaddings)": {
+              ".item": {
+                "margin": "0",
+                "padding": "0"
+              }
             }
           },
-          "_name": "image1",
+          "_name": "gallery2",
           "_sourceTheme": "mobirise-amp",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" value=\"5\" step=\"1\" condition=\"fullWidth == false\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"65\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Caption\" name=\"showText\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"image-block mbr-m-auto\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/qp1a8868-ed-2336x3504.jpg\" layout=\"responsive\" width=\"1168\" height=\"1752\" alt=\"Christmas Minis 2023 Mother and daughter red tartan\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/qp1a8868-ed-2336x3504.jpg\" alt=\"Christmas Minis 2023 Mother and daughter red tartan\" data-aspectratio=\"0.7144691780821918\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-class=\"{'mbr-py-1': !fullWidth, 'mbr-py-1 mbr-px-4': fullWidth}\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                    Create awesome and FAST websites!\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "tlARtCjNax",
-          "_anchor": "image1-5z",
+          "_customHTML": "<section class=\"amp-lightbox-gallery\" group=\"Shop\" plugins=\"amp-main, amp-lightbox-gallery\">\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n\t\t<input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n\t\t<input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n\t\t<input type=\"checkbox\" name=\"masonryStyle\" title=\"Masonry Style\" condition=\"!squareStyle\">\n\t\t<input type=\"checkbox\" name=\"squareStyle\" title=\"Square Style\" condition=\"!masonryStyle\">\n\t\t<input type=\"range\" min=\"50\" max=\"1000\" step=\"10\" value=\"70\" name=\"masonryHeight\" title=\"Height\" condition=\"masonryStyle\">\n\t\t<header>Show Hide</header>\n\t\t<input type=\"checkbox\" name=\"showTitle\" title=\"Title\">\n\t\t<input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\">\n\t\t<header>Image</header>\n\t\t<input type=\"range\" name=\"imageWidth\" title=\"Width\" min=\"2\" max=\"4\" step=\"1\" value=\"3\">\n\t\t<input type=\"checkbox\" name=\"showText\" title=\"Text\">\n\t\t<input type=\"color\" name=\"bgColor\" title=\"BG Color\" value=\"#005af0\" condition=\"showText\">\n\t\t<input type=\"range\" name=\"bgOpacity\" title=\"Opacity\" value=\"0.5\" min=\"0\" max=\"1\" step=\"0.1\" condition=\"showText\">\n\t\t<header condition=\"customStyle\">Custom Styles</header>\n\t\t<input type=\"checkbox\" name=\"noPaddings\" title=\"Without Padding\">\n\t\t<input type=\"checkbox\" name=\"customStyles\" title=\"Custom Style\" checked=\"\">\n\n\t\t<header condition=\"customStyles\">Paddings</header>\n\t\t<input type=\"range\" title=\"Spacing\" name=\"spacing\" min=\"0\" max=\"5\" step=\"0.5\" value=\"1\" condition=\"customStyles &amp;&amp; !noPaddings\">\n\n\t\t<header condition=\"customStyles\">Overlay</header>\n\t\t<input type=\"checkbox\" name=\"hoverOverlay\" title=\"Enable\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"color\" name=\"hoverColor\" value=\"#005af0\" title=\"Color\" condition=\"customStyles &amp;&amp; hoverOverlay\">\n\t\t<input type=\"range\" name=\"hoverOpacity\" value=\"0.5\" min=\"0\" max=\"1\" step=\"0.1\" title=\"Opacity\" condition=\"customStyles &amp;&amp; hoverOverlay\">\n\t\t<input type=\"checkbox\" name=\"hoverIcon\" title=\"Show Icon\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"color\" name=\"iconColor\" value=\"#ffffff\" title=\"Icon Color\" condition=\"customStyles &amp;&amp; hoverIcon\">\n\t\t<input type=\"range\" name=\"iconSize\" title=\"Icon Size\" min=\"1\" max=\"3\" step=\"0.5\" value=\"2\" condition=\"customStyles &amp;&amp; hoverIcon\">\n\n\t\t<header condition=\"customStyles\">Box Shadow</header>\n\t\t<input type=\"checkbox\" name=\"boxShadow\" title=\"Shadow\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"range\" name=\"shadowSize\" title=\"Size\" min=\"0\" max=\"100\" step=\"1\" value=\"15\" condition=\"customStyles &amp;&amp; boxShadow\">\n\t\t<input type=\"range\" name=\"shadowOpacity\" title=\"Opacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"customStyles &amp;&amp; boxShadow\">\n\t\t<input type=\"color\" name=\"shadowColor\" title=\"Color\" condition=\"customStyles &amp;&amp; boxShadow\">\n\n\t\t<header condition=\"customStyles\">Border Radius</header>\n\t\t<input type=\"checkbox\" name=\"useBorderRadius\" title=\"Round Border\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"range\" name=\"borderRadius\" title=\"Size\" min=\"0\" max=\"50\" step=\"1\" value=\"10\" condition=\"customStyles &amp;&amp; useBorderRadius\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" required=\"\">\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background2.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected=\"\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked=\"\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type == 'image'\">\n\t\t<input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type == 'image'\">\n\t</mbr-parameters>\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n\t<div mbr-class=\"{'container': !fullWidth,\n\t\t\t\t\t 'container-fluid': fullWidth}\">\n\t\t<div class=\"title mbr-pb-4 align-center\" mbr-if=\"showTitle || showSubtitle\">\n\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style mbr-bold mbr-pb-2\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Gallery with Image Links and Lightboxes</h3>\n\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Enter your gallery subtitle here</h4>\n\t\t</div>\n\t\t<div class=\"mbr-row\" mbr-class=\"{'mbr-column mbr-jc-s': masonryStyle}\">\n            <div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.14.30-534x653.png\" layout=\"responsive\" width=\"376.5803981623277\" height=\"460.5\" alt=\"Pampas grass photoshoot Nottingham, Derby, Giltbrook photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.14.30-534x653.png\" alt=\"Pampas grass photoshoot Nottingham, Derby, Giltbrook photographer\" data-slide-to=\"0\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.14.57-413x408.png\" layout=\"responsive\" width=\"466.14338235294116\" height=\"460.5\" alt=\"Wild garlic session Nottingham Derby photographer outdor\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.14.57-413x408.png\" alt=\"Wild garlic session Nottingham Derby photographer outdor\" data-slide-to=\"1\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.19.59-464x614.png\" layout=\"responsive\" width=\"348\" height=\"460.5\" alt=\"Bluebell woods session Nottingham, Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.19.59-464x614.png\" alt=\"Bluebell woods session Nottingham, Derby photographer\" data-slide-to=\"2\" data-aspectratio=\"0.7140804597701149\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.18.50-384x520.png\" layout=\"responsive\" width=\"349.61575384615384\" height=\"473.438\" alt=\"Pumpkin patch session Nottingham Derby outdoor photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.18.50-384x520.png\" alt=\"Pumpkin patch session Nottingham Derby outdoor photographer\" data-slide-to=\"3\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.17.03-405x551.png\" layout=\"responsive\" width=\"347.9898185117967\" height=\"473.438\" alt=\"autumn photoshoot Nottingham Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.17.03-405x551.png\" alt=\"autumn photoshoot Nottingham Derby photographer\" data-slide-to=\"4\" data-aspectratio=\"0.7140804597701149\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.16.15-462x628.png\" layout=\"responsive\" width=\"348.2935605095541\" height=\"473.438\" alt=\"Blossom tree photoshoot Nottingham, Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.16.15-462x628.png\" alt=\"Blossom tree photoshoot Nottingham, Derby photographer\" data-slide-to=\"5\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_anchor": "gallery2-6u",
+          "_isUserblock": true,
+          "_cid": "tQePNHMxOv",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              "& when (@overlay)": {
+                ".mbr-overlay": {
+                  "background": "@overlayColor",
+                  "opacity": "@overlayOpacity"
+                }
+              }
+            },
+            "& when (@masonryStyle)": {
+              "@media (min-width: 992px)": {
+                ".mbr-row": {
+                  "flex-direction": "column",
+                  "height": "(@masonryHeight * 1rem)",
+                  "align-content": "center",
+                  "justify-content": "flex-start",
+                  ".item": {
+                    "height": "auto",
+                    "flex": "none",
+                    "max-width": "100%",
+                    "& when (@imageWidth = 2)": {
+                      "width": "50.00%"
+                    },
+                    "& when (@imageWidth = 3)": {
+                      "width": "33.33%"
+                    },
+                    "& when (@imageWidth = 4)": {
+                      "width": "25.00%"
+                    }
+                  }
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& when not (@noPaddings)": {
+                ".container-fluid": {
+                  "padding-left": "(@spacing * 1rem)",
+                  "padding-right": "(@spacing * 1rem)"
+                },
+                ".item": {
+                  "padding": "(@spacing * 1rem)"
+                },
+                ".item-img": {
+                  "padding-bottom": "0"
+                }
+              },
+              "& when (@noPaddings)": {
+                ".mbr-row": {
+                  "margin": "0",
+                  "padding": "0"
+                },
+                ".container-fluid, .container": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".title": {
+              "& when (@spacing <= 2)": {
+                "padding-bottom": "((2 - @spacing) * 1rem)"
+              },
+              "& when (@spacing > 2)": {
+                "margin-bottom": "((2 - @spacing) * 1rem)"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".item": {
+                "margin-bottom": "2rem"
+              }
+            },
+            ".item-wrapper": {
+              "width": "100%",
+              "height": "100%",
+              "position": "relative"
+            },
+            "& when (@showText)": {
+              "amp-img": {
+                ".item-sign": {
+                  "position": "absolute",
+                  "left": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "padding": "1rem 2rem",
+                  "z-index": "2",
+                  "transition": "0.2s ease-in",
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), @bgOpacity)",
+                  "color": "#ffffff"
+                }
+              },
+              "amp-img:hover": {
+                ".item-sign": {
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), 100)"
+                }
+              }
+            },
+            "& when (@squareStyle)": {
+              "amp-img, img": {
+                "object-fit": "cover",
+                "height": "300px",
+                "@media (min-width: 991px) and (max-width: 1199px)": {
+                  "height": "275px"
+                }
+              }
+            },
+            ".item-btn, .item-box-btn": {
+              "margin": "0"
+            },
+            ".item-box": {
+              "justify-content": "center",
+              "position": "relative",
+              "width": "100%",
+              "background": "#f7f7f7",
+              "overflow": "auto",
+              "@media (min-width: 992px)": {
+                "max-width": "1000px"
+              },
+              "@media (max-width: 991px)": {
+                "width": "90%",
+                "margin": "1rem"
+              }
+            },
+            ".item-box-img": {
+              "@media (min-width: 992px)": {
+                "padding": "2rem"
+              },
+              "@media (max-width: 991px)": {
+                "padding": "1rem"
+              },
+              "amp-img": {
+                "height": "auto"
+              }
+            },
+            ".item-box-wrapper": {
+              "background-color": "#f7f7f7",
+              "@media (min-width: 992px)": {
+                "padding": "2rem"
+              },
+              "@media (max-width: 991px)": {
+                "padding": "1rem"
+              }
+            },
+            "& when (@customStyles)": {
+              "& when (@boxShadow)": {
+                ".item-wrapper": {
+                  "box-shadow": "0px 0px (@shadowSize * 1px) 0px rgba(red(@shadowColor), green(@shadowColor), blue(@shadowColor), @shadowOpacity)"
+                }
+              },
+              "& when (@hoverOverlay)": {
+                "amp-img": {
+                  "&:after": {
+                    "content": "\"\"",
+                    "pointer-events": "none",
+                    "transition": "0.4s",
+                    "position": "absolute",
+                    "top": "0",
+                    "left": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "opacity": "0",
+                    "background-color": "rgba(red(@hoverColor), green(@hoverColor), blue(@hoverColor), @hoverOpacity)"
+                  },
+                  "&:hover": {
+                    "&:after": {
+                      "opacity": "1"
+                    }
+                  }
+                }
+              },
+              "& when (@hoverIcon)": {
+                ".icon-wrap": {
+                  "position": "absolute",
+                  "left": "0",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "margin": "auto",
+                  "opacity": "0",
+                  "transition": "0.4s",
+                  "height": "(@iconSize * 1rem)",
+                  "width": "(@iconSize * 1rem)",
+                  "z-index": "2",
+                  "span": {
+                    "color": "@iconColor",
+                    "font-size": "(@iconSize * 1rem)"
+                  }
+                },
+                "amp-img:hover .icon-wrap": {
+                  "opacity": "1"
+                }
+              },
+              "& when (@useBorderRadius)": {
+                ".item-wrapper": {
+                  "z-index": "12",
+                  "border-radius": "(@borderRadius * 1px)",
+                  "overflow": "hidden"
+                }
+              }
+            },
+            "& when not (@customStyles)": {
+              ".icon-wrap": {
+                "display": "none"
+              }
+            },
+            ".item": {
+              "cursor": "pointer"
+            },
+            "& when (@noPaddings)": {
+              ".item": {
+                "margin": "0",
+                "padding": "0"
+              }
+            }
+          },
+          "_name": "gallery2",
+          "_sourceTheme": "mobirise-amp",
+          "_customHTML": "<section class=\"amp-lightbox-gallery\" group=\"Shop\" plugins=\"amp-main, amp-lightbox-gallery\">\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n\t\t<input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n\t\t<input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n\t\t<input type=\"checkbox\" name=\"masonryStyle\" title=\"Masonry Style\" condition=\"!squareStyle\">\n\t\t<input type=\"checkbox\" name=\"squareStyle\" title=\"Square Style\" condition=\"!masonryStyle\">\n\t\t<input type=\"range\" min=\"50\" max=\"1000\" step=\"10\" value=\"70\" name=\"masonryHeight\" title=\"Height\" condition=\"masonryStyle\">\n\t\t<header>Show Hide</header>\n\t\t<input type=\"checkbox\" name=\"showTitle\" title=\"Title\">\n\t\t<input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\">\n\t\t<header>Image</header>\n\t\t<input type=\"range\" name=\"imageWidth\" title=\"Width\" min=\"2\" max=\"4\" step=\"1\" value=\"3\">\n\t\t<input type=\"checkbox\" name=\"showText\" title=\"Text\">\n\t\t<input type=\"color\" name=\"bgColor\" title=\"BG Color\" value=\"#005af0\" condition=\"showText\">\n\t\t<input type=\"range\" name=\"bgOpacity\" title=\"Opacity\" value=\"0.5\" min=\"0\" max=\"1\" step=\"0.1\" condition=\"showText\">\n\t\t<header condition=\"customStyle\">Custom Styles</header>\n\t\t<input type=\"checkbox\" name=\"noPaddings\" title=\"Without Padding\">\n\t\t<input type=\"checkbox\" name=\"customStyles\" title=\"Custom Style\" checked=\"\">\n\n\t\t<header condition=\"customStyles\">Paddings</header>\n\t\t<input type=\"range\" title=\"Spacing\" name=\"spacing\" min=\"0\" max=\"5\" step=\"0.5\" value=\"1\" condition=\"customStyles &amp;&amp; !noPaddings\">\n\n\t\t<header condition=\"customStyles\">Overlay</header>\n\t\t<input type=\"checkbox\" name=\"hoverOverlay\" title=\"Enable\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"color\" name=\"hoverColor\" value=\"#005af0\" title=\"Color\" condition=\"customStyles &amp;&amp; hoverOverlay\">\n\t\t<input type=\"range\" name=\"hoverOpacity\" value=\"0.5\" min=\"0\" max=\"1\" step=\"0.1\" title=\"Opacity\" condition=\"customStyles &amp;&amp; hoverOverlay\">\n\t\t<input type=\"checkbox\" name=\"hoverIcon\" title=\"Show Icon\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"color\" name=\"iconColor\" value=\"#ffffff\" title=\"Icon Color\" condition=\"customStyles &amp;&amp; hoverIcon\">\n\t\t<input type=\"range\" name=\"iconSize\" title=\"Icon Size\" min=\"1\" max=\"3\" step=\"0.5\" value=\"2\" condition=\"customStyles &amp;&amp; hoverIcon\">\n\n\t\t<header condition=\"customStyles\">Box Shadow</header>\n\t\t<input type=\"checkbox\" name=\"boxShadow\" title=\"Shadow\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"range\" name=\"shadowSize\" title=\"Size\" min=\"0\" max=\"100\" step=\"1\" value=\"15\" condition=\"customStyles &amp;&amp; boxShadow\">\n\t\t<input type=\"range\" name=\"shadowOpacity\" title=\"Opacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"customStyles &amp;&amp; boxShadow\">\n\t\t<input type=\"color\" name=\"shadowColor\" title=\"Color\" condition=\"customStyles &amp;&amp; boxShadow\">\n\n\t\t<header condition=\"customStyles\">Border Radius</header>\n\t\t<input type=\"checkbox\" name=\"useBorderRadius\" title=\"Round Border\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"range\" name=\"borderRadius\" title=\"Size\" min=\"0\" max=\"50\" step=\"1\" value=\"10\" condition=\"customStyles &amp;&amp; useBorderRadius\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" required=\"\">\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background2.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected=\"\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked=\"\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type == 'image'\">\n\t\t<input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type == 'image'\">\n\t</mbr-parameters>\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n\t<div mbr-class=\"{'container': !fullWidth,\n\t\t\t\t\t 'container-fluid': fullWidth}\">\n\t\t<div class=\"title mbr-pb-4 align-center\" mbr-if=\"showTitle || showSubtitle\">\n\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style mbr-bold mbr-pb-2\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Gallery with Image Links and Lightboxes</h3>\n\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Enter your gallery subtitle here</h4>\n\t\t</div>\n\t\t<div class=\"mbr-row\" mbr-class=\"{'mbr-column mbr-jc-s': masonryStyle}\">\n            <div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.27.43-525x654.png\" layout=\"responsive\" width=\"347.99311926605503\" height=\"433.5\" alt=\"Pampas grass photoshoot Nottingham, Derby, Giltbrook photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.27.43-525x654.png\" alt=\"Pampas grass photoshoot Nottingham, Derby, Giltbrook photographer\" data-slide-to=\"0\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.33.40-525x627.png\" layout=\"responsive\" width=\"362.97846889952154\" height=\"433.5\" alt=\"Wild garlic session Nottingham Derby photographer outdor\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.33.40-525x627.png\" alt=\"Wild garlic session Nottingham Derby photographer outdor\" data-slide-to=\"1\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.35.30-532x527.png\" layout=\"responsive\" width=\"437.61290322580646\" height=\"433.5\" alt=\"Bluebell woods session Nottingham, Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.35.30-532x527.png\" alt=\"Bluebell woods session Nottingham, Derby photographer\" data-slide-to=\"2\" data-aspectratio=\"0.7140804597701149\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.47.42-615x609.png\" layout=\"responsive\" width=\"359.2862315270936\" height=\"355.781\" alt=\"Pumpkin patch session Nottingham Derby outdoor photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.47.42-615x609.png\" alt=\"Pumpkin patch session Nottingham Derby outdoor photographer\" data-slide-to=\"3\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.39.37-446x449.png\" layout=\"responsive\" width=\"353.40384409799555\" height=\"355.781\" alt=\"autumn photoshoot Nottingham Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.39.37-446x449.png\" alt=\"autumn photoshoot Nottingham Derby photographer\" data-slide-to=\"4\" data-aspectratio=\"0.7140804597701149\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.51.34-581x594.png\" layout=\"responsive\" width=\"347.99454713804715\" height=\"355.781\" alt=\"Blossom tree photoshoot Nottingham, Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.51.34-581x594.png\" alt=\"Blossom tree photoshoot Nottingham, Derby photographer\" data-slide-to=\"5\" data-aspectratio=\"1.2505263157894737\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_anchor": "gallery2-6v",
+          "_isUserblock": true,
+          "_cid": "tQeTaiBdlH",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)",
+              "& when (@overlay)": {
+                ".mbr-overlay": {
+                  "background": "@overlayColor",
+                  "opacity": "@overlayOpacity"
+                }
+              }
+            },
+            "& when (@masonryStyle)": {
+              "@media (min-width: 992px)": {
+                ".mbr-row": {
+                  "flex-direction": "column",
+                  "height": "(@masonryHeight * 1rem)",
+                  "align-content": "center",
+                  "justify-content": "flex-start",
+                  ".item": {
+                    "height": "auto",
+                    "flex": "none",
+                    "max-width": "100%",
+                    "& when (@imageWidth = 2)": {
+                      "width": "50.00%"
+                    },
+                    "& when (@imageWidth = 3)": {
+                      "width": "33.33%"
+                    },
+                    "& when (@imageWidth = 4)": {
+                      "width": "25.00%"
+                    }
+                  }
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& when not (@noPaddings)": {
+                ".container-fluid": {
+                  "padding-left": "(@spacing * 1rem)",
+                  "padding-right": "(@spacing * 1rem)"
+                },
+                ".item": {
+                  "padding": "(@spacing * 1rem)"
+                },
+                ".item-img": {
+                  "padding-bottom": "0"
+                }
+              },
+              "& when (@noPaddings)": {
+                ".mbr-row": {
+                  "margin": "0",
+                  "padding": "0"
+                },
+                ".container-fluid, .container": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".title": {
+              "& when (@spacing <= 2)": {
+                "padding-bottom": "((2 - @spacing) * 1rem)"
+              },
+              "& when (@spacing > 2)": {
+                "margin-bottom": "((2 - @spacing) * 1rem)"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".item": {
+                "margin-bottom": "2rem"
+              }
+            },
+            ".item-wrapper": {
+              "width": "100%",
+              "height": "100%",
+              "position": "relative"
+            },
+            "& when (@showText)": {
+              "amp-img": {
+                ".item-sign": {
+                  "position": "absolute",
+                  "left": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "padding": "1rem 2rem",
+                  "z-index": "2",
+                  "transition": "0.2s ease-in",
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), @bgOpacity)",
+                  "color": "#ffffff"
+                }
+              },
+              "amp-img:hover": {
+                ".item-sign": {
+                  "background-color": "rgba(red(@bgColor), green(@bgColor), blue(@bgColor), 100)"
+                }
+              }
+            },
+            "& when (@squareStyle)": {
+              "amp-img, img": {
+                "object-fit": "cover",
+                "height": "300px",
+                "@media (min-width: 991px) and (max-width: 1199px)": {
+                  "height": "275px"
+                }
+              }
+            },
+            ".item-btn, .item-box-btn": {
+              "margin": "0"
+            },
+            ".item-box": {
+              "justify-content": "center",
+              "position": "relative",
+              "width": "100%",
+              "background": "#f7f7f7",
+              "overflow": "auto",
+              "@media (min-width: 992px)": {
+                "max-width": "1000px"
+              },
+              "@media (max-width: 991px)": {
+                "width": "90%",
+                "margin": "1rem"
+              }
+            },
+            ".item-box-img": {
+              "@media (min-width: 992px)": {
+                "padding": "2rem"
+              },
+              "@media (max-width: 991px)": {
+                "padding": "1rem"
+              },
+              "amp-img": {
+                "height": "auto"
+              }
+            },
+            ".item-box-wrapper": {
+              "background-color": "#f7f7f7",
+              "@media (min-width: 992px)": {
+                "padding": "2rem"
+              },
+              "@media (max-width: 991px)": {
+                "padding": "1rem"
+              }
+            },
+            "& when (@customStyles)": {
+              "& when (@boxShadow)": {
+                ".item-wrapper": {
+                  "box-shadow": "0px 0px (@shadowSize * 1px) 0px rgba(red(@shadowColor), green(@shadowColor), blue(@shadowColor), @shadowOpacity)"
+                }
+              },
+              "& when (@hoverOverlay)": {
+                "amp-img": {
+                  "&:after": {
+                    "content": "\"\"",
+                    "pointer-events": "none",
+                    "transition": "0.4s",
+                    "position": "absolute",
+                    "top": "0",
+                    "left": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "opacity": "0",
+                    "background-color": "rgba(red(@hoverColor), green(@hoverColor), blue(@hoverColor), @hoverOpacity)"
+                  },
+                  "&:hover": {
+                    "&:after": {
+                      "opacity": "1"
+                    }
+                  }
+                }
+              },
+              "& when (@hoverIcon)": {
+                ".icon-wrap": {
+                  "position": "absolute",
+                  "left": "0",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "margin": "auto",
+                  "opacity": "0",
+                  "transition": "0.4s",
+                  "height": "(@iconSize * 1rem)",
+                  "width": "(@iconSize * 1rem)",
+                  "z-index": "2",
+                  "span": {
+                    "color": "@iconColor",
+                    "font-size": "(@iconSize * 1rem)"
+                  }
+                },
+                "amp-img:hover .icon-wrap": {
+                  "opacity": "1"
+                }
+              },
+              "& when (@useBorderRadius)": {
+                ".item-wrapper": {
+                  "z-index": "12",
+                  "border-radius": "(@borderRadius * 1px)",
+                  "overflow": "hidden"
+                }
+              }
+            },
+            "& when not (@customStyles)": {
+              ".icon-wrap": {
+                "display": "none"
+              }
+            },
+            ".item": {
+              "cursor": "pointer"
+            },
+            "& when (@noPaddings)": {
+              ".item": {
+                "margin": "0",
+                "padding": "0"
+              }
+            }
+          },
+          "_name": "gallery2",
+          "_sourceTheme": "mobirise-amp",
+          "_customHTML": "<section class=\"amp-lightbox-gallery\" group=\"Shop\" plugins=\"amp-main, amp-lightbox-gallery\">\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n\t\t<input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n\t\t<input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n\t\t<input type=\"checkbox\" name=\"masonryStyle\" title=\"Masonry Style\" condition=\"!squareStyle\">\n\t\t<input type=\"checkbox\" name=\"squareStyle\" title=\"Square Style\" condition=\"!masonryStyle\">\n\t\t<input type=\"range\" min=\"50\" max=\"1000\" step=\"10\" value=\"70\" name=\"masonryHeight\" title=\"Height\" condition=\"masonryStyle\">\n\t\t<header>Show Hide</header>\n\t\t<input type=\"checkbox\" name=\"showTitle\" title=\"Title\">\n\t\t<input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\">\n\t\t<header>Image</header>\n\t\t<input type=\"range\" name=\"imageWidth\" title=\"Width\" min=\"2\" max=\"4\" step=\"1\" value=\"3\">\n\t\t<input type=\"checkbox\" name=\"showText\" title=\"Text\">\n\t\t<input type=\"color\" name=\"bgColor\" title=\"BG Color\" value=\"#005af0\" condition=\"showText\">\n\t\t<input type=\"range\" name=\"bgOpacity\" title=\"Opacity\" value=\"0.5\" min=\"0\" max=\"1\" step=\"0.1\" condition=\"showText\">\n\t\t<header condition=\"customStyle\">Custom Styles</header>\n\t\t<input type=\"checkbox\" name=\"noPaddings\" title=\"Without Padding\">\n\t\t<input type=\"checkbox\" name=\"customStyles\" title=\"Custom Style\" checked=\"\">\n\n\t\t<header condition=\"customStyles\">Paddings</header>\n\t\t<input type=\"range\" title=\"Spacing\" name=\"spacing\" min=\"0\" max=\"5\" step=\"0.5\" value=\"1\" condition=\"customStyles &amp;&amp; !noPaddings\">\n\n\t\t<header condition=\"customStyles\">Overlay</header>\n\t\t<input type=\"checkbox\" name=\"hoverOverlay\" title=\"Enable\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"color\" name=\"hoverColor\" value=\"#005af0\" title=\"Color\" condition=\"customStyles &amp;&amp; hoverOverlay\">\n\t\t<input type=\"range\" name=\"hoverOpacity\" value=\"0.5\" min=\"0\" max=\"1\" step=\"0.1\" title=\"Opacity\" condition=\"customStyles &amp;&amp; hoverOverlay\">\n\t\t<input type=\"checkbox\" name=\"hoverIcon\" title=\"Show Icon\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"color\" name=\"iconColor\" value=\"#ffffff\" title=\"Icon Color\" condition=\"customStyles &amp;&amp; hoverIcon\">\n\t\t<input type=\"range\" name=\"iconSize\" title=\"Icon Size\" min=\"1\" max=\"3\" step=\"0.5\" value=\"2\" condition=\"customStyles &amp;&amp; hoverIcon\">\n\n\t\t<header condition=\"customStyles\">Box Shadow</header>\n\t\t<input type=\"checkbox\" name=\"boxShadow\" title=\"Shadow\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"range\" name=\"shadowSize\" title=\"Size\" min=\"0\" max=\"100\" step=\"1\" value=\"15\" condition=\"customStyles &amp;&amp; boxShadow\">\n\t\t<input type=\"range\" name=\"shadowOpacity\" title=\"Opacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"customStyles &amp;&amp; boxShadow\">\n\t\t<input type=\"color\" name=\"shadowColor\" title=\"Color\" condition=\"customStyles &amp;&amp; boxShadow\">\n\n\t\t<header condition=\"customStyles\">Border Radius</header>\n\t\t<input type=\"checkbox\" name=\"useBorderRadius\" title=\"Round Border\" condition=\"customStyles\" checked=\"\">\n\t\t<input type=\"range\" name=\"borderRadius\" title=\"Size\" min=\"0\" max=\"50\" step=\"1\" value=\"10\" condition=\"customStyles &amp;&amp; useBorderRadius\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" required=\"\">\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background2.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected=\"\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked=\"\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type == 'image'\">\n\t\t<input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type == 'image'\">\n\t</mbr-parameters>\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\"></div>\n\t<div mbr-class=\"{'container': !fullWidth,\n\t\t\t\t\t 'container-fluid': fullWidth}\">\n\t\t<div class=\"title mbr-pb-4 align-center\" mbr-if=\"showTitle || showSubtitle\">\n\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style mbr-bold mbr-pb-2\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Gallery with Image Links and Lightboxes</h3>\n\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Enter your gallery subtitle here</h4>\n\t\t</div>\n\t\t<div class=\"mbr-row\" mbr-class=\"{'mbr-column mbr-jc-s': masonryStyle}\">\n            <div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.31.34-450x597.png\" layout=\"responsive\" width=\"347.9939698492463\" height=\"461.672\" alt=\"Pampas grass photoshoot Nottingham, Derby, Giltbrook photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.31.34-450x597.png\" alt=\"Pampas grass photoshoot Nottingham, Derby, Giltbrook photographer\" data-slide-to=\"0\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.35.17-524x559.png\" layout=\"responsive\" width=\"432.7658819320215\" height=\"461.672\" alt=\"Wild garlic session Nottingham Derby photographer outdor\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.35.17-524x559.png\" alt=\"Wild garlic session Nottingham Derby photographer outdor\" data-slide-to=\"1\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.51.20-482x606.png\" layout=\"responsive\" width=\"367.20446204620464\" height=\"461.672\" alt=\"Bluebell woods session Nottingham, Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.51.20-482x606.png\" alt=\"Bluebell woods session Nottingham, Derby photographer\" data-slide-to=\"2\" data-aspectratio=\"0.7140804597701149\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.52.03-490x607.png\" layout=\"responsive\" width=\"379.1171169686985\" height=\"469.641\" alt=\"Pumpkin patch session Nottingham Derby outdoor photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.52.03-490x607.png\" alt=\"Pumpkin patch session Nottingham Derby outdoor photographer\" data-slide-to=\"3\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.20.40-446x447.png\" layout=\"responsive\" width=\"468.5903489932886\" height=\"469.641\" alt=\"autumn photoshoot Nottingham Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.20.40-446x447.png\" alt=\"autumn photoshoot Nottingham Derby photographer\" data-slide-to=\"4\" data-aspectratio=\"0.7140804597701149\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div><div class=\"item gallery-image mbr-col-md-6 mbr-col-sm-12\" mbr-class=\"{'mbr-col-lg-4': imageWidth == 3,\n\t\t\t\t\t\t\t 'mbr-col-lg-3': imageWidth == 4,\n\t\t\t\t\t\t\t 'mbr-col-lg-6': imageWidth == 2}\">\n\t\t\t\t<div class=\"item-wrapper\">\n\t\t\t\t\t<amp-img lightbox=\"true\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.28.38-349x471.png\" layout=\"responsive\" width=\"347.9930127388535\" height=\"469.641\" alt=\"Blossom tree photoshoot Nottingham, Derby photographer\" class=\"placeholder-loader lb-image\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <div class=\"icon-wrap iconfont-wrapper\" mbr-if=\"hoverIcon\">\n                            <span mbr-icon=\"\" class=\"amp-iconfont mobi-mbri-search mobi-mbri\"></span>\n                        </div>\n\t\t\t\t\t\t<p class=\"item-sign mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".item-sign\">Type caption here</p>\n\t\t\t\t\t\t<img class=\"mbr-temp nodisplay\" src=\"@PROJECT_PATH@/assets/images/screenshot-2023-09-18-at-20.28.38-349x471.png\" alt=\"Blossom tree photoshoot Nottingham, Derby photographer\" data-slide-to=\"5\" data-aspectratio=\"0.6666666666666666\" lightbox=\"true\">\n\t\t\t\t\t</amp-img>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_anchor": "gallery2-6w",
+          "_isUserblock": true,
+          "_cid": "tQeXCdwSgW",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
