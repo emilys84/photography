@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Emilia Reilly Photography - newborn, kids, maternity, family, portrait photo sessions",
-    "currentPage": "page15.html",
+    "currentPage": "experience.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -56,7 +56,7 @@
         "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 279,
+    "uniqCompNum": 280,
     "versionPublish": "5.9.13",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -12617,20 +12617,18 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-title": {
-              "color": "#000000",
-              "text-align": "left"
+              "color": "#ffffff"
             }
           },
-          "_name": "header4",
+          "_name": "header1",
           "_sourceTheme": "mobirise-amp",
-          "_customHTML": "<section class=\"header4\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/qp1a0532-ed-2000x1333.jpg\" selected>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"2 Color\" name=\"twoColor\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" value=\"#005af0\" name=\"twoColorBg\" condition=\"twoColor && bg.type == 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-fonts-style mbr-section-title align-left mbr-white mbr-bold mbr-pb-2\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">\n            Christmas&nbsp;</span><span style=\"font-weight: normal;\">Minis&nbsp;</span><span style=\"font-weight: normal;\">2023</span></h1>\n        <h2 class=\"mbr-fonts-style mbr-section-subtitle align-left mbr-white mbr-semibold mbr-pb-3\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-section-subtitle, .mbr-section-btn\"><span style=\"font-weight: normal;\">Thank you for your interest on my website.&nbsp;</span><div><span style=\"font-weight: normal;\">I am happy to announce my Christmas Minis 2022</span></div><div><span style=\"font-weight: normal;\">and I am very excited to capture some&nbsp;</span></div><div><span style=\"font-weight: normal;\">beautiful memories for your family.</span></div><div><span style=\"font-weight: normal;\">The first sessions will take place in October</span></div><div><span style=\"font-weight: normal;\">to give you enough time to prepare your&nbsp;</span></div><div><span style=\"font-weight: normal;\">Christmas cards, calendars and presents.</span></div><div><span style=\"font-weight: normal;\">My ultimate goal is to make sure you and</span></div><div><span style=\"font-weight: normal;\">your kids have a great time during the</span></div><div><span style=\"font-weight: normal;\">session that's why I prepared two </span></div><div><span style=\"font-weight: normal;\">fun set ups!&nbsp;</span><span style=\"font-weight: normal;\">The first one will involve </span></div><div><span style=\"font-weight: normal;\">playing in the snow,&nbsp;</span><span style=\"font-weight: normal;\">throwing snow balls,</span></div><div><span style=\"font-weight: normal;\">posting a letter to Santa.</span></div><div><span style=\"font-weight: normal;\">The second one will be baking</span></div><div><span style=\"font-weight: normal;\">gingerbread&nbsp;</span><span style=\"font-weight: normal;\">biscuits. </span></div><div><span style=\"font-weight: normal;\">This set up will be available for</span></div><div><span style=\"font-weight: normal;\">the family pictures.&nbsp;</span></div></h2>\n        <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"christmas-minis.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">More information</a></div>\n    </div>\n</section>",
-          "_anchor": "header4-5b",
-          "_isUserblock": true,
-          "_cid": "tgKwO95Chn",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/gold-frame-2000x1050.jpg\" selected> \n            <input type=\"color\" title=\"Color\" value=\"#00dcc0\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"2 Color\" name=\"twoColor\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" value=\"#005af0\" name=\"twoColorBg\" condition=\"twoColor && bg.type == 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white mbr-pb-2\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">Framed Prints</span></h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-semibold mbr-pb-3\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">\n            Please click the link below&nbsp;<br>to check the prices.&nbsp;</h3>\n        <p class=\"mbr-fonts-style mbr-text align-right mbr-pb-3 mbr-white\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Full width intro with adjustable height, background image. <br>Click any text to edit or style it.\n        </p>\n        <div class=\"mbr-section-btn align-right\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white\" href=\"page15.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">\n                Learn More\n            </a></div>\n    </div>\n\n</section>",
+          "_cid": "uyQMYwwqjo",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "header1-7r"
         },
         {
           "_styles": {
